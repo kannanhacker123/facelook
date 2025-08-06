@@ -1,4 +1,4 @@
-# FaceLook 😄🎥
+# FaceLook 
 
 A fun and practical OpenCV project for learning face recognition—with a splash of humor and AI charm!
 
